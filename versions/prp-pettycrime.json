@@ -1,0 +1,9 @@
+{
+  "version": "1.0.1",
+  "changes": [
+      "Fixed targeting broken parking meter causing native exception" 
+  ],
+  "filesAffected": [
+      "client/parking_maters/parking_maters.lua"
+  ]
+}
